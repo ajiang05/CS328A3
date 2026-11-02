@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebooks checkpoints & generated plots
+.ipynb_checkpoints/
+*.png
+
+# macOS artifacts
+.DS_Store
